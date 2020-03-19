@@ -21,3 +21,7 @@ Overwrite free.png.
 No.2
 
 Add Sparrow image
+
+No.3
+
+Do nothing.
