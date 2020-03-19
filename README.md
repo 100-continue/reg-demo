@@ -17,3 +17,7 @@ Add .gitignore
 No.1
 
 Overwrite free.png.
+
+No.2
+
+Add Sparrow image
