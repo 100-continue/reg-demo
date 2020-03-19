@@ -29,3 +29,7 @@ Do nothing.
 No.4
 
 Rename Image.
+
+No.5
+
+Delete all.
